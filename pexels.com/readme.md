@@ -1,0 +1,2 @@
+- cheerio
+- requests
